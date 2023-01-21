@@ -1,0 +1,17 @@
+ <div class="conteimg">
+                <img src="images/comp2.jpg" alt="" class="comp2" >
+                <!--<img src="icons/man.jpg" alt="" class="man" >-->
+                
+            </div>
+            /*.conteimg{
+    width:45% ;
+    height:1% ;
+    position: relative ;
+    align-self:auto;
+}*/
+/*.conteimg img{
+    position: absolute ;
+    bottom: 0;
+    left: 50%;
+    transform: translatex(-50%);
+}*/
